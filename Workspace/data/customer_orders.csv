@@ -1,0 +1,501 @@
+order_id,customer_id,product_id,product_name,sku,manufacturer,brand,quantity,unit_price,order_date,branch_id,branch_name
+306ca144-04cb-47ac-99a1-d5b6b913b08e,1015,103,Sugar,SC103,SweetCo,Sweetie,7,284.51,2024-07-15,1,Thika
+734adcf9-2af5-4866-984c-befa963b0281,1604,105,Salt,KS105,KenSalt,KenSalt,4,268.24,2024-09-23,10,Embu
+12a1a343-4175-4bc3-b25b-36ecaa47c589,1861,105,Salt,KS105,KenSalt,KenSalt,10,496.3,2025-01-21,6,Nakuru
+2bb93510-c89a-4870-8ab3-849ce80372da,1056,104,Rice,PL104,Pishori Ltd,Pishori,2,160.96,2024-12-19,1,Thika
+9c0e11bf-bf5d-443e-b8bf-dfe5f2424c13,1887,105,Salt,KS105,KenSalt,KenSalt,5,177.67,2024-08-07,9,Machakos
+b673b532-955c-4012-855c-20e643da1d0f,1132,104,Rice,PL104,Pishori Ltd,Pishori,8,76.09,2024-08-12,4,Kisumu
+a106ae30-66ee-4b00-802a-43d2f933fea0,1616,104,Rice,PL104,Pishori Ltd,Pishori,10,326.4,2024-12-01,1,Thika
+21e10714-636a-452e-ba42-3af331ad2402,1955,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,416.96,2025-02-19,5,Eldoret
+bb13b21c-1832-4891-8daf-d93cb95f550e,1917,103,Sugar,SC103,SweetCo,Sweetie,7,157.16,2025-06-06,4,Kisumu
+c64352c0-d765-4dad-9c90-c01231d8823a,1664,105,Salt,KS105,KenSalt,KenSalt,5,327.5,2024-09-22,1,Thika
+e51f1213-8789-48c9-b099-5acc5b893915,1791,103,Sugar,SC103,SweetCo,Sweetie,5,154.04,2025-04-01,10,Embu
+2c1e9e1e-1876-4ce5-ab82-0954d9459782,1493,105,Salt,KS105,KenSalt,KenSalt,1,440.76,2024-09-18,4,Kisumu
+dca49fe6-4a84-4a6e-96f1-3cbdefae9b98,1930,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,61.84,2024-12-23,7,Kitale
+c38ce071-0273-4776-84fd-2a2af2c87721,1283,103,Sugar,SC103,SweetCo,Sweetie,9,160.19,2024-12-17,2,Nairobi
+191dd0f6-da29-4a22-ad3c-aa15849826cd,1301,103,Sugar,SC103,SweetCo,Sweetie,3,282.71,2024-09-25,8,Nyeri
+30905fbb-1c0c-4153-91eb-5845ca786883,1501,105,Salt,KS105,KenSalt,KenSalt,1,361.1,2025-02-12,6,Nakuru
+7fbebb4e-79dd-432b-9ab9-06b8c2d1712e,1331,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,329.54,2024-10-11,9,Machakos
+487970d3-099c-4721-806f-933e5569cff3,1757,104,Rice,PL104,Pishori Ltd,Pishori,6,122.21,2024-10-04,4,Kisumu
+9ec37c28-53f2-4d7f-82dc-87d43ddbf512,1542,105,Salt,KS105,KenSalt,KenSalt,6,310.52,2025-05-19,7,Kitale
+c8d4d23e-0878-4f5b-9748-3668277ac3f7,1481,104,Rice,PL104,Pishori Ltd,Pishori,7,125.77,2024-07-17,4,Kisumu
+8fbc3e78-abc6-47f4-943f-37b7bcb013d5,1357,105,Salt,KS105,KenSalt,KenSalt,5,117.72,2025-06-06,5,Eldoret
+98205846-16ad-4716-8aea-5ce4d1b5da48,1895,105,Salt,KS105,KenSalt,KenSalt,4,405.18,2025-01-20,3,Mombasa
+88934817-d575-4ea7-bdfe-29a42515c970,1247,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,484.71,2025-02-02,8,Nyeri
+c97a2fa0-aba2-48ee-a10d-038dd0b53fa1,1533,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,256.83,2025-05-30,4,Kisumu
+2ece4243-26dc-4b75-ac1d-68987331b01b,1076,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,290.06,2024-10-22,5,Eldoret
+d1274282-ba04-4ddf-84dd-230841c54605,1025,105,Salt,KS105,KenSalt,KenSalt,2,309.08,2024-07-02,9,Machakos
+5a3dd057-7140-4284-bbcd-933b1dc49b9d,1688,102,Cooking Oil,GF102,Golden Fry,GoldFry,10,211.48,2025-03-05,8,Nyeri
+dd58efa5-01bc-43a0-a6d8-4b160d593558,1431,104,Rice,PL104,Pishori Ltd,Pishori,4,428.67,2025-04-22,10,Embu
+6d81fe68-66ba-4624-8a32-08bd5abe827a,1798,103,Sugar,SC103,SweetCo,Sweetie,9,172.0,2024-12-30,5,Eldoret
+5c42f452-184a-4e79-a03c-aae68de3c455,1544,103,Sugar,SC103,SweetCo,Sweetie,3,499.81,2024-11-03,3,Mombasa
+d51ff582-c0af-4b73-ab0f-e5ff66e8fdb1,1597,104,Rice,PL104,Pishori Ltd,Pishori,10,252.65,2025-03-31,1,Thika
+c6bfdb25-42c5-4211-955d-d37ea92b9ddb,1392,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,248.07,2025-04-03,10,Embu
+cc8e4ee7-8e66-4156-93a8-21fce88447fd,1920,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,206.79,2024-08-20,3,Mombasa
+16746a93-fa9a-455e-8d75-2b69d7f9dd39,1949,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,475.45,2025-03-08,10,Embu
+2fb50436-77a4-400d-83c2-8b3df3bcec38,1838,103,Sugar,SC103,SweetCo,Sweetie,5,385.9,2025-01-12,1,Thika
+55fd46d9-4a21-487c-893b-a74ab8de655e,1834,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,260.91,2025-01-24,9,Machakos
+cf871a26-61d5-4070-92b7-197b37334c57,1275,105,Salt,KS105,KenSalt,KenSalt,9,489.97,2025-04-23,2,Nairobi
+dade5477-e781-4785-8990-e8c092d7c563,1979,103,Sugar,SC103,SweetCo,Sweetie,9,356.86,2024-10-06,2,Nairobi
+a60eff89-4e6a-4773-b360-8fe5f007c95c,1275,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,329.27,2025-01-01,6,Nakuru
+1ba79dbb-a14c-4f30-9860-30f0192f4a4b,1255,105,Salt,KS105,KenSalt,KenSalt,5,416.15,2024-10-05,2,Nairobi
+d1c0863d-e9c5-4aab-b2c4-b1053a509da2,1679,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,114.55,2024-12-11,2,Nairobi
+ed14456b-3fa8-4562-8aa5-e21983f21886,1262,104,Rice,PL104,Pishori Ltd,Pishori,3,394.58,2025-05-05,8,Nyeri
+9b57a575-afc5-4004-a20a-4201f803e1ed,1856,105,Salt,KS105,KenSalt,KenSalt,7,129.68,2025-05-12,2,Nairobi
+076e4b6a-f0ec-490c-b950-a6b27d5068dd,1207,104,Rice,PL104,Pishori Ltd,Pishori,3,451.57,2024-10-09,4,Kisumu
+95075a2d-130e-4c3c-a928-33a7be7aacbf,1012,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,462.6,2025-02-12,9,Machakos
+a02d1ee7-6da3-4ff8-be51-431b4477e37f,1248,103,Sugar,SC103,SweetCo,Sweetie,8,107.78,2025-01-28,10,Embu
+f36a3d84-3707-4c23-b59d-60f70269c127,1033,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,80.47,2024-11-07,4,Kisumu
+27d14bde-2919-4e02-a579-73c92195706a,1831,105,Salt,KS105,KenSalt,KenSalt,2,212.57,2024-07-19,1,Thika
+d41b0be6-e5a5-453e-869f-6f1255c42519,1176,105,Salt,KS105,KenSalt,KenSalt,9,377.75,2024-10-22,3,Mombasa
+3922668f-1d76-459e-ae2c-f21e3f157de9,1353,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,474.01,2025-02-26,6,Nakuru
+f4846e24-a746-421b-a76b-ef60e5a6aa12,1025,103,Sugar,SC103,SweetCo,Sweetie,9,251.72,2024-11-30,6,Nakuru
+2a0d91f2-5627-44a4-bcde-94531b6d6e01,1494,103,Sugar,SC103,SweetCo,Sweetie,2,313.64,2024-08-23,10,Embu
+8253c44e-63fc-4081-80c7-db8159fde349,1940,104,Rice,PL104,Pishori Ltd,Pishori,5,251.44,2024-08-17,4,Kisumu
+6ecf320e-99d9-469e-9f1b-7096536ac2cf,1619,104,Rice,PL104,Pishori Ltd,Pishori,3,129.02,2025-04-13,2,Nairobi
+7ef0fb75-2348-44d7-b416-a9bc2122697c,1350,103,Sugar,SC103,SweetCo,Sweetie,9,313.74,2024-11-27,6,Nakuru
+5cf6bf92-3ca7-41f1-8247-11dd5cf7ae41,1798,105,Salt,KS105,KenSalt,KenSalt,10,488.7,2024-10-06,9,Machakos
+3447ffe3-6238-47b4-89e9-51c526840edd,1592,104,Rice,PL104,Pishori Ltd,Pishori,5,348.82,2025-03-05,2,Nairobi
+9dd5f779-a1b1-4e7b-b9eb-9251e2634f7b,1544,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,66.91,2024-10-04,1,Thika
+9f6b033f-7088-4c6b-afbb-cbfa01002e2a,1430,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,292.81,2024-11-24,1,Thika
+82f5534a-01fe-42cf-b479-ae63828f263e,1909,104,Rice,PL104,Pishori Ltd,Pishori,8,162.43,2025-01-21,1,Thika
+8baef1f4-28cf-427c-9a96-7818cafaeba7,1222,104,Rice,PL104,Pishori Ltd,Pishori,10,382.0,2024-09-09,9,Machakos
+389b3d6d-3468-48e8-acea-26a22350bd3f,1781,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,400.61,2024-08-22,1,Thika
+fac8e197-106d-492f-b7e1-927dd4afa1a3,1574,105,Salt,KS105,KenSalt,KenSalt,1,242.77,2025-05-23,1,Thika
+5d7330f0-6e32-4605-90de-f171befb1f25,1011,103,Sugar,SC103,SweetCo,Sweetie,3,146.4,2024-08-30,10,Embu
+c3b27993-7ac3-4b1c-b688-9578b79f41a6,1971,104,Rice,PL104,Pishori Ltd,Pishori,6,169.94,2025-01-07,8,Nyeri
+f8f03c3d-38ac-4058-8c0b-e4d1a7022a34,1211,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,148.03,2024-07-21,2,Nairobi
+249db617-a418-444d-93cd-4748c78cc80b,1806,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,328.67,2024-06-19,8,Nyeri
+e2b46bc6-ae63-413d-8492-46286d0879f0,1086,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,75.87,2024-08-17,3,Mombasa
+6773ca7b-7d97-439a-86d0-157003cac3af,1818,103,Sugar,SC103,SweetCo,Sweetie,8,310.44,2024-10-23,9,Machakos
+5327c7b8-df83-4d35-9bb8-0d900babef20,1522,105,Salt,KS105,KenSalt,KenSalt,10,434.92,2025-01-16,8,Nyeri
+4995c6ce-3460-4afe-ad46-125383d02333,1602,102,Cooking Oil,GF102,Golden Fry,GoldFry,10,102.22,2024-07-25,6,Nakuru
+78230a57-2dc2-4db8-bbff-ecf6e77c5169,1113,103,Sugar,SC103,SweetCo,Sweetie,10,227.53,2024-09-23,8,Nyeri
+1c28e4ac-c6ce-4a5f-a4a6-c7efe4be6f77,1031,103,Sugar,SC103,SweetCo,Sweetie,1,122.57,2025-04-11,4,Kisumu
+d25c63ee-7e26-41db-918f-37f9be963292,1022,103,Sugar,SC103,SweetCo,Sweetie,5,291.6,2025-02-07,6,Nakuru
+bdf3b1f5-1530-4a6b-a514-19abb8472976,1122,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,99.12,2025-03-12,10,Embu
+f87798e4-b92d-466b-86df-c71af5e49138,1919,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,420.55,2025-02-27,5,Eldoret
+c24caf5d-9d27-418c-8a7f-f11afa8345ca,1006,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,433.86,2025-03-26,2,Nairobi
+156ef50f-1763-4d16-bd3d-27d1f8ecb4d8,1059,104,Rice,PL104,Pishori Ltd,Pishori,8,205.9,2024-10-17,5,Eldoret
+6308582c-4f44-4323-9626-470ed1fe6a3d,1734,103,Sugar,SC103,SweetCo,Sweetie,5,162.42,2024-10-11,4,Kisumu
+6d043274-e9c9-429c-9661-677d48deb39b,1907,104,Rice,PL104,Pishori Ltd,Pishori,6,126.29,2025-05-28,6,Nakuru
+093e137b-0373-4ab1-bfce-fbbc237c0347,1863,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,396.88,2025-05-27,5,Eldoret
+ec4813ee-416d-480c-a0d5-9033a62ba6de,1618,105,Salt,KS105,KenSalt,KenSalt,1,336.35,2025-05-06,2,Nairobi
+8c6dfbd8-def7-4547-a70c-4df9e3dd67fd,1248,104,Rice,PL104,Pishori Ltd,Pishori,1,341.46,2024-10-11,9,Machakos
+6d05c3d6-a9d6-466b-a412-da1e7c9896c6,1199,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,471.15,2025-06-06,2,Nairobi
+3fca3067-80bc-4610-ba5c-821940e9cae3,1105,103,Sugar,SC103,SweetCo,Sweetie,8,213.88,2024-12-24,5,Eldoret
+55c92a85-73a8-4b3e-adb8-072e0627b20e,1384,104,Rice,PL104,Pishori Ltd,Pishori,9,75.42,2024-09-28,10,Embu
+91e7af52-9d1d-44f1-92d1-3abc69ba2d1d,1580,103,Sugar,SC103,SweetCo,Sweetie,6,398.24,2024-09-16,6,Nakuru
+294e2d95-4510-4923-b43d-db824164d312,1447,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,141.13,2024-08-01,4,Kisumu
+80888d19-6c1b-48cc-ad53-c626c904e06b,1678,105,Salt,KS105,KenSalt,KenSalt,4,212.44,2024-08-12,10,Embu
+3dec6a0a-6e39-44ba-b7cb-9790766fc1dc,1067,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,85.16,2024-09-12,4,Kisumu
+2ff0a163-a9b8-45c6-8c57-9c69af8a9a9a,1942,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,217.03,2024-08-23,1,Thika
+27852a8c-3609-4bab-ae52-f2e982161029,1640,103,Sugar,SC103,SweetCo,Sweetie,10,475.37,2025-03-29,6,Nakuru
+0c2fd713-ead9-4e87-a93b-9d4a5c3f77b8,1759,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,458.49,2024-09-09,4,Kisumu
+266e54e3-ba6e-4383-a82f-f32ca4911076,1305,103,Sugar,SC103,SweetCo,Sweetie,3,358.87,2024-07-01,8,Nyeri
+327c38a1-68c7-4931-bab5-89c2bc0642a1,1172,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,326.78,2024-08-06,1,Thika
+b3e1272f-bfd2-4936-8e0f-5c239ba6b1e3,1919,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,266.74,2024-12-21,3,Mombasa
+a06f9833-0820-43ae-ab61-f3d80c1928e5,1078,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,321.51,2024-06-20,8,Nyeri
+0492a1e8-fe09-418a-90c4-7928b7601c64,1954,104,Rice,PL104,Pishori Ltd,Pishori,6,78.25,2024-07-21,8,Nyeri
+2845d0a5-a7c0-423c-a747-53e683d86220,1635,105,Salt,KS105,KenSalt,KenSalt,6,283.76,2024-06-09,5,Eldoret
+56f58cd3-8619-4614-81e5-0070c5ab0d40,1890,104,Rice,PL104,Pishori Ltd,Pishori,3,52.99,2024-07-23,4,Kisumu
+a9126689-8c32-4d41-998b-5de1dacc4854,1953,105,Salt,KS105,KenSalt,KenSalt,3,145.1,2025-01-19,5,Eldoret
+88c73d2d-0b5a-4135-baf0-6762a095bbb6,1878,104,Rice,PL104,Pishori Ltd,Pishori,2,318.2,2024-11-09,5,Eldoret
+7e37c178-a0cb-4c01-9f70-a9cf48118ce5,1943,104,Rice,PL104,Pishori Ltd,Pishori,1,191.22,2025-05-08,2,Nairobi
+ebd9f1b3-a459-44c7-97a4-3ed4672deb72,1437,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,126.54,2024-08-14,4,Kisumu
+cf21d177-7b3b-4f9d-ada4-f888ad56d403,1779,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,235.28,2025-01-20,3,Mombasa
+f01e6a46-fbf4-4496-8ae4-df0c452c9780,1424,104,Rice,PL104,Pishori Ltd,Pishori,4,86.31,2024-07-12,2,Nairobi
+646512b4-2f26-419b-a829-a536d85d92ec,1572,104,Rice,PL104,Pishori Ltd,Pishori,3,62.19,2024-10-19,8,Nyeri
+e7a2cf11-7397-460f-969f-febf1ae675ba,1811,104,Rice,PL104,Pishori Ltd,Pishori,3,454.08,2024-11-11,6,Nakuru
+3f1fabbc-655b-431b-8872-db34cf24d727,1008,103,Sugar,SC103,SweetCo,Sweetie,4,293.39,2024-12-10,3,Mombasa
+b706abc1-e5a2-4932-9d57-2212c710ad27,1729,104,Rice,PL104,Pishori Ltd,Pishori,7,320.13,2024-10-05,7,Kitale
+a5bfd24f-73cd-448a-9835-ced3bb0da628,1922,105,Salt,KS105,KenSalt,KenSalt,6,111.12,2024-10-30,4,Kisumu
+a58a1435-bc82-4dfd-a9b9-603a19077513,1460,103,Sugar,SC103,SweetCo,Sweetie,9,162.56,2024-12-28,7,Kitale
+acab1dd8-53bd-4308-b03b-98a05162eda1,1321,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,50.56,2024-10-12,6,Nakuru
+d124a6d7-cd4d-4db3-8af6-233a6c442552,1264,104,Rice,PL104,Pishori Ltd,Pishori,8,418.38,2024-08-27,3,Mombasa
+22b590d9-486e-4662-a3a6-220393162af5,1569,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,449.01,2025-02-24,9,Machakos
+bdb8efd1-d553-4932-a40e-a0ff7eadd133,1747,103,Sugar,SC103,SweetCo,Sweetie,2,454.77,2024-10-20,1,Thika
+80841c1e-5d2d-4f43-a138-589c63b59880,1379,104,Rice,PL104,Pishori Ltd,Pishori,2,60.19,2025-01-01,1,Thika
+177644b1-0cb5-4a5e-b8a2-e51c40fa3525,1194,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,242.59,2024-08-28,4,Kisumu
+4399b4d1-6046-47fd-962e-ee412ea06df5,1981,103,Sugar,SC103,SweetCo,Sweetie,1,126.47,2024-10-12,2,Nairobi
+4eb85e48-b4d3-4718-8962-f488ba2b1cab,1941,104,Rice,PL104,Pishori Ltd,Pishori,8,340.33,2024-07-20,10,Embu
+88318c4b-0301-4cc5-8e16-84edd46eb98d,1062,105,Salt,KS105,KenSalt,KenSalt,6,113.43,2024-11-29,9,Machakos
+4cad315a-4e6c-47aa-abb7-0280706518c6,1614,103,Sugar,SC103,SweetCo,Sweetie,10,324.86,2025-02-16,6,Nakuru
+03ba3bdc-4f13-4f6a-b39a-abff53555ced,1998,104,Rice,PL104,Pishori Ltd,Pishori,7,377.62,2024-10-15,10,Embu
+299e5022-0228-48ee-9921-ead66464b86b,1857,105,Salt,KS105,KenSalt,KenSalt,2,95.4,2025-04-27,9,Machakos
+44cd4d6c-749b-445f-a10b-65860e2c0f51,1451,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,73.51,2024-07-13,6,Nakuru
+d4e7969c-5d64-47f4-829c-a29d06efa133,1051,105,Salt,KS105,KenSalt,KenSalt,6,143.06,2025-02-15,2,Nairobi
+d82be395-747a-4d7c-8788-7cc920107e61,1212,103,Sugar,SC103,SweetCo,Sweetie,9,400.77,2025-05-29,9,Machakos
+15b4dd2b-a2e7-4e32-8ff0-9fe165cb6739,1506,103,Sugar,SC103,SweetCo,Sweetie,6,224.62,2024-12-09,8,Nyeri
+20519835-ba26-4836-99ed-bf053bfbc23d,1944,103,Sugar,SC103,SweetCo,Sweetie,10,85.61,2024-10-07,9,Machakos
+9978bc15-eda1-4f1e-a349-583a72427a07,1992,103,Sugar,SC103,SweetCo,Sweetie,9,282.29,2025-01-31,9,Machakos
+761616f4-63da-4a27-acdc-66066dc55d1a,1107,103,Sugar,SC103,SweetCo,Sweetie,1,390.45,2024-09-28,9,Machakos
+dfd2f264-4154-406a-a8ad-f734705cc44f,1744,103,Sugar,SC103,SweetCo,Sweetie,2,421.82,2025-05-19,5,Eldoret
+612c1f5e-94f3-46a7-be4e-cc397bcc6b32,1535,102,Cooking Oil,GF102,Golden Fry,GoldFry,10,152.7,2024-07-31,3,Mombasa
+d96a94f0-c2d1-4586-a19b-cfafdd9b50fd,1767,104,Rice,PL104,Pishori Ltd,Pishori,3,240.5,2025-03-10,4,Kisumu
+e0850ea5-817a-405e-b84b-09d0183abfef,1790,105,Salt,KS105,KenSalt,KenSalt,2,62.99,2024-10-27,1,Thika
+65a247c9-cb29-4dfa-aa0c-0b15f96708c2,1359,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,189.42,2024-06-27,4,Kisumu
+cd2d9e57-3b26-467a-9a0b-8fae96fc5190,1531,105,Salt,KS105,KenSalt,KenSalt,10,367.46,2024-08-31,1,Thika
+737595eb-22a1-457e-91ad-a3c4ef380080,1322,105,Salt,KS105,KenSalt,KenSalt,6,133.93,2024-10-14,10,Embu
+2c6ac24f-9705-4f26-99a4-4334f0661f49,1731,103,Sugar,SC103,SweetCo,Sweetie,1,341.92,2024-11-18,9,Machakos
+1069820e-a897-4096-9a59-212646a1ee5b,1050,103,Sugar,SC103,SweetCo,Sweetie,5,187.04,2024-08-19,5,Eldoret
+a684cb51-63cf-4d05-963c-c7ea5e88cd94,1118,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,482.68,2025-05-16,7,Kitale
+a1a8e1d1-3565-45a3-8d49-14348162c87f,1577,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,227.84,2024-11-01,7,Kitale
+8ce06a45-dbe0-4b81-9b62-57a1cfc172c7,1816,103,Sugar,SC103,SweetCo,Sweetie,6,457.0,2024-11-01,10,Embu
+d53950d0-c231-4c58-8cfe-efabdda04bc5,1044,103,Sugar,SC103,SweetCo,Sweetie,9,144.84,2024-09-22,1,Thika
+77f74d48-7a96-4ada-a577-de9915f7d0d4,1077,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,178.85,2024-08-19,7,Kitale
+cb47c5aa-800c-4259-a79f-5b34bec660be,1980,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,496.56,2024-11-25,10,Embu
+ac491730-0825-4de1-a9b5-e97d7f4adea9,1511,104,Rice,PL104,Pishori Ltd,Pishori,3,303.69,2025-05-08,9,Machakos
+26be7c64-0826-41ab-9a27-d189fa61e936,1967,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,77.27,2025-06-06,4,Kisumu
+78e8e2eb-3dcf-4feb-9862-b08e26a15613,1514,104,Rice,PL104,Pishori Ltd,Pishori,7,296.3,2024-07-12,3,Mombasa
+7d41e0c2-3221-4d4c-ac56-1360a609c00d,1796,105,Salt,KS105,KenSalt,KenSalt,8,92.22,2024-08-11,9,Machakos
+9d4f84c5-bd16-4249-ad83-d58c165fb97a,1794,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,315.26,2024-12-23,2,Nairobi
+e7fbe19a-a7d1-444c-97d2-9e4a386c4197,1096,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,483.57,2025-04-09,5,Eldoret
+83377eac-62d9-47c6-ae9e-a918581060fa,1383,104,Rice,PL104,Pishori Ltd,Pishori,2,288.38,2025-01-30,7,Kitale
+a946e2ca-ad64-4353-b662-d593f7f13ffb,1806,103,Sugar,SC103,SweetCo,Sweetie,4,309.56,2025-01-17,6,Nakuru
+8d3746d2-7b25-42de-879e-5e5010067766,1263,103,Sugar,SC103,SweetCo,Sweetie,9,407.21,2024-11-04,6,Nakuru
+f1290bd1-3168-416a-b894-d9c55bad3ca5,1286,103,Sugar,SC103,SweetCo,Sweetie,10,475.57,2024-07-27,7,Kitale
+5aebe260-6c4a-40ba-a9ba-c826272766a4,1987,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,262.35,2025-03-03,8,Nyeri
+8937f65b-c59e-40e4-b3d2-dfa8b008d15d,1547,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,162.71,2024-07-14,7,Kitale
+f8abed26-54da-4b85-b4f9-ccc3c6789c5f,1906,103,Sugar,SC103,SweetCo,Sweetie,2,89.45,2024-09-26,7,Kitale
+10be0488-21d1-4c67-b9c0-54918cbace75,1407,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,125.01,2024-10-17,5,Eldoret
+ec31d655-ab94-47e3-86cd-1e3ddf66bd13,1207,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,141.25,2024-08-11,8,Nyeri
+57022b89-9eda-443b-af22-ac674b38be7d,1980,105,Salt,KS105,KenSalt,KenSalt,8,297.29,2024-11-15,2,Nairobi
+4d65971e-d31f-41d4-8d6c-d31e89f22413,1283,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,189.98,2025-03-17,4,Kisumu
+bc48e343-10f0-473d-97cc-08aafb7a89d1,1347,104,Rice,PL104,Pishori Ltd,Pishori,10,242.8,2024-09-24,1,Thika
+5d875a3a-58e3-491c-9511-f4240481dcf4,1086,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,273.74,2024-09-25,2,Nairobi
+e634f435-23fc-4d37-9b50-526207989034,1309,105,Salt,KS105,KenSalt,KenSalt,10,176.12,2025-05-05,8,Nyeri
+73a29054-b38d-4227-818c-a1de05a0c50d,1225,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,96.21,2025-04-16,5,Eldoret
+683708ef-df9f-4068-a293-86a5187e217c,1921,105,Salt,KS105,KenSalt,KenSalt,7,98.11,2024-11-05,9,Machakos
+34c2638d-4a6d-49a9-9ca6-c8485ca31aac,1181,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,440.13,2024-10-10,6,Nakuru
+dc0ca9e1-30fa-4d76-9dbb-2d95d4de4aec,1787,104,Rice,PL104,Pishori Ltd,Pishori,8,60.35,2025-05-07,5,Eldoret
+86710adb-678b-4929-8668-9698d60f4fc3,1712,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,252.61,2024-11-28,8,Nyeri
+e7ebb3f2-2da7-4a9e-b2bd-a9e8090874e5,1417,103,Sugar,SC103,SweetCo,Sweetie,3,78.77,2024-07-21,6,Nakuru
+b41139f4-f247-47fc-8d7e-aeff1d2f1dc8,1188,103,Sugar,SC103,SweetCo,Sweetie,2,114.59,2024-07-05,6,Nakuru
+897df770-ba10-4710-8e17-4baeb2e68968,1691,105,Salt,KS105,KenSalt,KenSalt,6,362.75,2024-06-18,4,Kisumu
+acf60772-d095-4946-aa94-cc1eb252ab7b,1683,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,253.57,2025-01-23,4,Kisumu
+89024b63-0bf9-4581-91e4-f8b042e01a4c,1828,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,90.18,2024-06-28,9,Machakos
+b0caa7e8-6e4d-4be7-be40-04624ef5f25a,1005,104,Rice,PL104,Pishori Ltd,Pishori,3,321.89,2024-07-06,1,Thika
+0d2079c7-2681-4349-a686-33956820bfbd,1589,103,Sugar,SC103,SweetCo,Sweetie,6,277.13,2024-11-07,6,Nakuru
+c0be133b-3b27-4576-b16c-4cffedbbbefe,1859,105,Salt,KS105,KenSalt,KenSalt,1,464.86,2025-04-23,6,Nakuru
+5fc27fca-dd33-4a41-9df3-4d290fcf217e,1014,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,91.1,2024-12-13,9,Machakos
+5efc7f66-5d64-4b3b-a7e3-ed975aa2a667,1946,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,209.02,2025-02-05,3,Mombasa
+b5705abc-18f7-4c25-ac4f-ae7060de679a,1499,105,Salt,KS105,KenSalt,KenSalt,8,357.27,2025-04-22,4,Kisumu
+269f069f-68fc-4f4d-a02e-d1df30ebfa59,1079,103,Sugar,SC103,SweetCo,Sweetie,5,237.97,2024-08-30,10,Embu
+bd1c08e3-912e-409b-bb15-c9c6953c4160,1540,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,204.38,2024-10-13,10,Embu
+b4d8b179-8dae-4002-9e16-66ed4e2393d7,1397,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,444.69,2025-01-14,9,Machakos
+b17357e1-7304-42e5-a2d4-c548a44fc3a5,1981,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,416.0,2025-06-03,6,Nakuru
+ecf5d1c7-7fb6-4cf2-8fa6-83966cc58db8,1317,103,Sugar,SC103,SweetCo,Sweetie,10,261.93,2024-10-23,2,Nairobi
+df6890a1-edb4-4359-81ad-cf76a8ff6aea,1272,104,Rice,PL104,Pishori Ltd,Pishori,10,120.31,2024-07-11,5,Eldoret
+c5f7d72d-413e-477d-8092-ec09e73463cb,1405,105,Salt,KS105,KenSalt,KenSalt,10,343.88,2024-06-27,10,Embu
+46b868c4-08c0-4319-b733-798dc946d115,1600,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,432.56,2024-11-05,4,Kisumu
+fdc85a1b-e5ab-4be7-8d38-3ca545d40b57,1809,103,Sugar,SC103,SweetCo,Sweetie,3,368.38,2024-07-23,3,Mombasa
+ffc296a8-5dd6-45e9-8409-29cec0184da4,1855,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,405.58,2025-02-17,9,Machakos
+3c6075c0-7e5b-4f66-85a9-c2c4a83ed808,1146,104,Rice,PL104,Pishori Ltd,Pishori,1,97.86,2025-03-03,2,Nairobi
+0268a514-c1a1-4c78-90db-1d79f728097b,1576,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,476.48,2024-10-10,10,Embu
+05006ce9-b91d-4fa4-9c13-b1d9d2bb17ff,1640,105,Salt,KS105,KenSalt,KenSalt,1,197.66,2025-02-25,4,Kisumu
+eefc32d0-ae0f-4dc4-a29e-ebecf645ca3b,1866,104,Rice,PL104,Pishori Ltd,Pishori,8,436.92,2024-11-12,7,Kitale
+1cb449d7-b0a9-4e0a-b0df-772afb1bfe64,1488,105,Salt,KS105,KenSalt,KenSalt,5,104.96,2024-08-25,1,Thika
+c395d65c-7c4c-415c-a856-dbec67f35170,1504,104,Rice,PL104,Pishori Ltd,Pishori,2,191.37,2024-12-30,7,Kitale
+b56f7163-83d5-4954-bd51-e77cb11ffb49,1301,103,Sugar,SC103,SweetCo,Sweetie,8,377.94,2025-02-20,3,Mombasa
+599c51e2-d55c-4044-9b10-2dccb90dd821,1180,104,Rice,PL104,Pishori Ltd,Pishori,9,72.21,2024-09-18,9,Machakos
+04535a93-531b-461a-8dac-fda0cb50e839,1343,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,69.01,2024-09-27,6,Nakuru
+1ce2d2e4-9091-48b4-8896-16fba97e66e6,1450,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,458.72,2025-01-29,4,Kisumu
+43eec841-54df-477b-80f6-96bb43e4edc4,1524,103,Sugar,SC103,SweetCo,Sweetie,3,96.28,2024-08-17,10,Embu
+b5bc83d3-428b-4d75-bdeb-cee8ce4714f8,1587,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,98.34,2024-09-13,3,Mombasa
+55674210-92a8-46cd-aae0-4b5540cbc1bb,1382,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,204.6,2025-01-04,7,Kitale
+46e28396-7a18-4341-89c8-ae5da1108975,1072,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,234.05,2025-01-07,7,Kitale
+080f2161-2ed2-4d60-a081-ccf0c0beff03,1678,105,Salt,KS105,KenSalt,KenSalt,7,172.31,2025-04-07,9,Machakos
+9f982267-c018-44d1-a732-d66adf559e04,1675,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,188.82,2025-05-21,2,Nairobi
+4dc015cd-bf10-40fc-acec-8b0660b241a7,1553,104,Rice,PL104,Pishori Ltd,Pishori,1,283.26,2025-02-24,1,Thika
+3ef2196a-e617-4c02-96e4-b6ad5360e9c7,1338,103,Sugar,SC103,SweetCo,Sweetie,7,257.64,2024-10-28,6,Nakuru
+79a7380a-9658-4aec-bcc3-d17c626a454e,1393,103,Sugar,SC103,SweetCo,Sweetie,7,138.86,2025-02-21,8,Nyeri
+23219592-befa-4c2a-ab6a-eb4804d3ad93,1863,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,207.64,2025-04-13,1,Thika
+5caccf1e-ea5b-4fe8-bd1d-af0631a531bb,1022,103,Sugar,SC103,SweetCo,Sweetie,7,301.75,2025-03-11,4,Kisumu
+4b5af7b3-642d-4dcc-ab0b-8205b397592f,1330,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,464.28,2024-08-24,3,Mombasa
+f3168a32-bcc7-489b-ab7e-3b106d4d7a94,1118,103,Sugar,SC103,SweetCo,Sweetie,5,349.92,2025-06-02,5,Eldoret
+03d533ea-9334-40e8-97f7-5f211f9e12ad,1123,104,Rice,PL104,Pishori Ltd,Pishori,8,194.57,2024-12-08,2,Nairobi
+e5c7d65d-51db-43a6-95c7-28f36a5b9aa2,1721,104,Rice,PL104,Pishori Ltd,Pishori,8,169.57,2024-09-26,10,Embu
+2d7b77bc-bb52-443b-a286-3e219b35cc1a,1306,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,357.91,2024-12-22,1,Thika
+3985cb3b-75ff-4540-a9da-5166d9d0a3d8,1451,103,Sugar,SC103,SweetCo,Sweetie,9,240.09,2025-02-14,1,Thika
+5c0689ef-6475-4c4b-b2ce-cb24b52dd697,1746,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,102.98,2025-05-16,1,Thika
+cb4cc979-1678-4996-bd8f-239e5b59f42e,1614,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,443.36,2025-01-23,6,Nakuru
+a74c75c9-3138-4344-a943-b561510ca3ed,1457,104,Rice,PL104,Pishori Ltd,Pishori,1,156.7,2024-10-28,5,Eldoret
+647cee8f-1690-4a86-9ba0-0fbb2e277d32,1325,105,Salt,KS105,KenSalt,KenSalt,8,217.67,2025-05-19,10,Embu
+894d26b8-a7fe-41f0-bba3-0b4f9ccc8ab9,1561,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,444.69,2025-03-25,5,Eldoret
+df68236d-ed8f-42eb-bac4-eb823de17dfb,1400,103,Sugar,SC103,SweetCo,Sweetie,7,85.43,2025-01-15,1,Thika
+6e479ae5-79c7-4471-9961-7cf8eb58ee6d,1485,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,133.11,2024-08-06,2,Nairobi
+95d179bf-b6da-4f22-8ef2-9140fd96bc86,1761,104,Rice,PL104,Pishori Ltd,Pishori,6,193.43,2024-12-25,2,Nairobi
+d4db4a1e-a041-47d0-94c3-002350b64d87,1119,105,Salt,KS105,KenSalt,KenSalt,10,453.03,2025-03-26,7,Kitale
+ab9d1d06-2471-4522-adf0-5c09cc157398,1004,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,81.13,2025-04-14,7,Kitale
+070a796d-2f0a-4f7c-8ae3-7824ae62f4e4,1504,103,Sugar,SC103,SweetCo,Sweetie,2,185.65,2024-06-14,6,Nakuru
+9162aa10-db6a-4c3b-846f-95a7fdbababd,1759,105,Salt,KS105,KenSalt,KenSalt,9,207.73,2024-10-22,2,Nairobi
+666ce24e-b13d-43c4-94e2-0bf9135705fd,1428,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,213.27,2024-09-09,4,Kisumu
+2c55e0c3-1ec6-4ce6-85f8-6d9b6cb86105,1160,104,Rice,PL104,Pishori Ltd,Pishori,10,103.53,2025-04-13,8,Nyeri
+c7888287-e06b-46c7-bac9-eb637e7c1d49,1430,104,Rice,PL104,Pishori Ltd,Pishori,2,327.17,2024-07-20,8,Nyeri
+437c3d9b-1194-482f-8e64-baf1bed5b816,1705,102,Cooking Oil,GF102,Golden Fry,GoldFry,10,177.62,2025-04-23,8,Nyeri
+237faf85-dcf8-432d-9317-3b92870df82c,1901,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,115.42,2025-02-08,8,Nyeri
+e9e1b119-4bdb-4420-9ee6-d5dd13608129,1144,105,Salt,KS105,KenSalt,KenSalt,10,255.01,2025-05-16,10,Embu
+46e3151c-7c7a-421b-b633-00732e9ae787,1844,104,Rice,PL104,Pishori Ltd,Pishori,10,325.54,2024-10-15,9,Machakos
+e11a2a7b-e439-4ce0-ae8b-c1a1a4e4f43f,1622,105,Salt,KS105,KenSalt,KenSalt,10,316.6,2025-01-05,5,Eldoret
+841335e0-3372-4c9f-9967-bcbb74cac311,1123,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,236.87,2025-02-11,6,Nakuru
+92c8bda4-3d76-44c9-bf37-9acbcd4d990f,1039,105,Salt,KS105,KenSalt,KenSalt,3,400.83,2024-12-13,3,Mombasa
+61838d25-9874-4158-8e1d-abbd8412c706,1110,103,Sugar,SC103,SweetCo,Sweetie,10,407.12,2024-11-04,3,Mombasa
+996764f6-4279-49b9-854c-94b3d854b96a,1576,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,162.71,2024-10-03,4,Kisumu
+3ff4ec87-4076-4a08-ad2e-45e1ef52e609,1129,105,Salt,KS105,KenSalt,KenSalt,1,364.65,2025-02-19,4,Kisumu
+699e33ba-2d14-4b20-93d8-5d18958ff1aa,1251,105,Salt,KS105,KenSalt,KenSalt,4,142.6,2024-11-04,3,Mombasa
+2041dd1b-4b42-4e9e-a3e4-6a08db52e957,1726,105,Salt,KS105,KenSalt,KenSalt,5,210.03,2025-04-23,3,Mombasa
+6e310f67-2441-4601-90b7-81e47cf0b226,1904,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,354.9,2024-10-14,2,Nairobi
+983c3cbf-d1d8-4d12-9d84-d8b1bba1eafa,1160,105,Salt,KS105,KenSalt,KenSalt,4,53.43,2025-04-26,6,Nakuru
+14afb4a3-fac1-42bf-87a8-f6c789319e3e,1493,103,Sugar,SC103,SweetCo,Sweetie,10,237.34,2024-06-24,9,Machakos
+892e5e79-d47e-43c9-aa8c-c47534a153b6,1588,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,96.59,2024-10-18,4,Kisumu
+1f409410-0178-46dd-a014-c7dc017bfc7d,1182,105,Salt,KS105,KenSalt,KenSalt,8,354.9,2024-08-28,3,Mombasa
+974ba239-26ae-4bda-9958-9173e2b3fa14,1223,104,Rice,PL104,Pishori Ltd,Pishori,9,311.59,2024-09-25,9,Machakos
+46947506-7e71-43f8-a59c-1c2f88704986,1203,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,199.04,2025-03-06,10,Embu
+bdefffd2-d046-4fd9-8626-b3b00b0954a1,1407,105,Salt,KS105,KenSalt,KenSalt,10,81.52,2024-12-28,8,Nyeri
+a72e5f03-a5fc-4247-a036-a6d5fffa2cc5,1201,103,Sugar,SC103,SweetCo,Sweetie,9,296.57,2025-04-04,9,Machakos
+d7b7abc2-8e8a-4207-93b8-8aebc77912b2,1660,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,293.52,2024-09-05,2,Nairobi
+81af705b-6c5b-4d89-b0f7-68a74143279d,1068,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,430.37,2025-01-04,7,Kitale
+d08e423c-3c15-4ebd-9331-62036aac9153,1332,104,Rice,PL104,Pishori Ltd,Pishori,2,54.81,2024-08-04,2,Nairobi
+f2c99877-25cb-4b71-aea8-1d5567e6c640,1838,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,404.53,2025-01-11,6,Nakuru
+49f5c5a5-1eec-449c-a3fe-a78a6e49098a,1596,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,487.62,2024-06-17,9,Machakos
+4a00a884-3733-4282-af68-cb11f6deb193,1492,104,Rice,PL104,Pishori Ltd,Pishori,6,206.45,2024-06-10,1,Thika
+60ca33bd-ecb5-4d07-bb8f-89c65f730709,1362,105,Salt,KS105,KenSalt,KenSalt,6,158.83,2024-08-06,5,Eldoret
+8ff54c5c-8748-4fed-a396-d9bd65a485ce,1381,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,77.03,2024-08-04,1,Thika
+515c493c-75dd-4233-8d72-f577597c3621,1782,105,Salt,KS105,KenSalt,KenSalt,4,249.32,2024-07-27,10,Embu
+941346be-991e-4ea5-b8bc-fec200e8737c,1373,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,274.89,2024-08-12,8,Nyeri
+9fac50f6-a719-427b-b1ba-6c6f5cf4389e,1141,104,Rice,PL104,Pishori Ltd,Pishori,9,167.7,2024-08-13,7,Kitale
+5e224994-9907-4221-a32c-29f9cd7066ad,1591,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,322.27,2024-10-03,8,Nyeri
+76a59a6a-87a9-4c7e-909a-bf97eedb3ad0,1548,105,Salt,KS105,KenSalt,KenSalt,8,134.93,2025-01-10,5,Eldoret
+4e0a9014-bd8c-4ac1-a398-a0e818f338b8,1557,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,60.67,2025-05-24,4,Kisumu
+160687a7-4297-46d9-912a-44f12da06596,1033,105,Salt,KS105,KenSalt,KenSalt,5,446.95,2025-03-28,9,Machakos
+d9e8dd2b-34b3-4b34-afca-fad223295e26,1994,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,313.5,2025-04-02,10,Embu
+7eb3294f-2aa9-4472-8e16-cfb2322fb93c,1640,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,396.19,2024-06-17,3,Mombasa
+e9aa0b42-2fc7-409a-84e0-c818d3760d39,1561,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,206.74,2025-05-25,9,Machakos
+cce7b093-67ce-4f02-bbb2-bfef84b9a685,1554,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,241.61,2025-01-03,6,Nakuru
+bb44a34c-a24b-43b9-994a-99d83be84209,1409,104,Rice,PL104,Pishori Ltd,Pishori,10,152.56,2025-06-07,1,Thika
+48730b24-d308-4d9b-89e5-ea5a6c404d75,1264,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,304.19,2024-07-21,3,Mombasa
+e511a21c-b4cd-4e3d-bfa6-a8a47cf6bed6,1827,103,Sugar,SC103,SweetCo,Sweetie,9,67.38,2024-11-05,4,Kisumu
+80333cd5-fd33-47d0-ba5f-fd20abedc5ea,1874,105,Salt,KS105,KenSalt,KenSalt,8,303.98,2024-06-28,6,Nakuru
+40787c76-07d1-45b1-b11c-3f2faa7e79a7,1936,105,Salt,KS105,KenSalt,KenSalt,1,92.73,2024-07-12,1,Thika
+bdc5ccd8-7d94-4bb2-af09-eb8edec56ee4,1310,103,Sugar,SC103,SweetCo,Sweetie,6,69.36,2025-04-16,2,Nairobi
+bc50d04f-b033-49f8-b97c-3a674cf82a40,1403,104,Rice,PL104,Pishori Ltd,Pishori,8,70.84,2024-08-31,7,Kitale
+d67a9d66-362d-4baa-9ad8-d27221263cf5,1429,104,Rice,PL104,Pishori Ltd,Pishori,10,178.7,2025-02-18,2,Nairobi
+867fcbf2-7da8-475f-8080-0fb29a2d07ca,1755,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,75.35,2024-09-26,7,Kitale
+bc1c8770-d2b3-424c-b67d-57309a1cfd0a,1835,104,Rice,PL104,Pishori Ltd,Pishori,3,254.11,2024-06-25,8,Nyeri
+9848bf39-7122-4e1c-9d22-127a1047569a,1345,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,282.48,2024-06-30,2,Nairobi
+a624cb9f-d4e9-4fcc-a41f-96f6cb1359c3,1368,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,329.06,2024-06-19,5,Eldoret
+19ebf2ff-3613-4564-8e51-91e971c1a84f,1074,104,Rice,PL104,Pishori Ltd,Pishori,5,108.91,2024-09-30,5,Eldoret
+0c959718-12c9-4525-aa03-048a1c558737,1159,105,Salt,KS105,KenSalt,KenSalt,2,69.39,2024-07-21,4,Kisumu
+083a8390-9fb3-4a22-aa21-ad02ef67081f,1912,104,Rice,PL104,Pishori Ltd,Pishori,10,417.09,2024-08-22,4,Kisumu
+c4f95ab4-0f0d-4d6e-be53-d02bb1df998c,1276,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,159.27,2024-10-22,6,Nakuru
+b46fbaeb-c1ab-4b05-bd6f-085793b1dfe2,1290,104,Rice,PL104,Pishori Ltd,Pishori,8,419.64,2025-04-18,5,Eldoret
+48dbead9-d670-463c-b341-f9225cb8d7cf,1320,103,Sugar,SC103,SweetCo,Sweetie,5,290.95,2024-09-13,8,Nyeri
+f0f6099c-2004-49ec-8f5e-a48abf743a4d,1322,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,134.81,2024-09-23,9,Machakos
+045908a2-c225-42c4-bc8a-2e0f330a4e85,1706,103,Sugar,SC103,SweetCo,Sweetie,10,176.96,2025-05-14,4,Kisumu
+c2a4f47b-324a-4b27-a018-910fb6c6d54d,1189,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,271.16,2025-04-02,8,Nyeri
+45ada6b2-4b55-4506-a16f-ba24d5ca1868,1773,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,431.26,2025-02-01,9,Machakos
+c109c692-252e-4fe1-a964-ec78546783bd,1131,104,Rice,PL104,Pishori Ltd,Pishori,10,150.79,2025-02-26,9,Machakos
+e3da05eb-ce2a-431e-98b4-ccff45677aa0,1468,104,Rice,PL104,Pishori Ltd,Pishori,2,282.8,2025-05-06,4,Kisumu
+40b95f44-7c97-4786-ae0f-a50e0296f65e,1896,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,365.18,2025-05-09,5,Eldoret
+8d55e41d-1691-4ede-afe7-e1014f408492,1666,103,Sugar,SC103,SweetCo,Sweetie,10,131.59,2025-03-12,4,Kisumu
+3737d3ce-5570-4b06-96ec-66c7c6974f9a,1140,105,Salt,KS105,KenSalt,KenSalt,5,66.01,2025-01-01,5,Eldoret
+2776d6af-d651-4ec8-a238-49ec908d513d,1759,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,157.05,2025-05-02,4,Kisumu
+00d1e710-e434-4bb7-8567-2a654fcc3704,1157,105,Salt,KS105,KenSalt,KenSalt,5,66.83,2024-12-12,4,Kisumu
+04e1ae62-5197-4960-a6d1-4686df5b9c72,1294,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,471.53,2024-07-23,1,Thika
+a765bdf1-9b09-4ce9-aa29-178ea19d4ce9,1155,105,Salt,KS105,KenSalt,KenSalt,9,126.89,2024-08-19,3,Mombasa
+4456b5c4-52ae-4095-91f0-cd5dac4b64c7,1923,105,Salt,KS105,KenSalt,KenSalt,2,421.44,2024-09-06,4,Kisumu
+cd7ef3f1-1cc8-4f10-93cf-6d48b9706cc4,1430,104,Rice,PL104,Pishori Ltd,Pishori,7,255.55,2025-03-24,7,Kitale
+d866290c-d53b-4bd7-aab0-5466184f5913,1399,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,225.0,2024-12-11,3,Mombasa
+9f21491d-c3aa-423c-9e4b-aedda5f4a3ad,1164,104,Rice,PL104,Pishori Ltd,Pishori,4,411.83,2024-08-13,7,Kitale
+e5aaf266-93eb-4255-8b69-0d0922e68b61,1755,103,Sugar,SC103,SweetCo,Sweetie,4,211.97,2024-06-14,10,Embu
+ee5dce44-504c-4fcd-b848-5a04c55f0240,1869,105,Salt,KS105,KenSalt,KenSalt,2,253.95,2024-11-15,10,Embu
+ccc0227a-0251-4d3e-ba0f-e0cd95b85fe2,1473,105,Salt,KS105,KenSalt,KenSalt,10,300.51,2024-07-18,10,Embu
+0d23cba2-3c24-4776-a10f-a4f9310b3f45,1948,105,Salt,KS105,KenSalt,KenSalt,1,356.32,2025-03-14,5,Eldoret
+006b11f0-cf2c-43f8-baf7-497b73629320,1042,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,372.63,2025-01-21,3,Mombasa
+823107cc-c9f9-4253-a12b-1267b64c0999,1304,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,452.13,2025-05-22,9,Machakos
+eeea95f5-83da-4b64-99d1-77b02a6e5cdb,1292,103,Sugar,SC103,SweetCo,Sweetie,4,378.81,2025-04-05,1,Thika
+4311928e-f492-43e9-8d11-4b841e96a941,1664,105,Salt,KS105,KenSalt,KenSalt,7,420.07,2024-09-02,7,Kitale
+de0b38b2-182e-410d-9891-5dee5dab9f80,1460,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,321.54,2025-01-22,2,Nairobi
+6206ee88-7bdf-4171-a4ac-5c8f9253bf53,1595,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,64.36,2025-01-05,9,Machakos
+f632bf77-3a33-4e96-a199-5ed58a05d102,1136,105,Salt,KS105,KenSalt,KenSalt,3,272.15,2025-03-01,6,Nakuru
+d5502225-3653-4d59-8ec5-6ae7f1df02f2,1187,103,Sugar,SC103,SweetCo,Sweetie,8,150.28,2024-07-03,9,Machakos
+cd1d2288-9b83-49ac-9cb3-ae25bd567f34,1030,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,179.41,2025-03-03,9,Machakos
+9448e6c7-db26-4add-b2c5-679c8a7bbe97,1448,104,Rice,PL104,Pishori Ltd,Pishori,7,484.05,2025-02-08,4,Kisumu
+6f841695-79c3-462e-b1ed-beb1bf2d4ac2,1958,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,137.72,2025-05-11,3,Mombasa
+ca6a800e-fecc-4606-811b-5ddbdadb0af9,1306,104,Rice,PL104,Pishori Ltd,Pishori,3,116.46,2025-01-24,5,Eldoret
+b0c2bce4-cc1a-4aca-80a8-174c0e880874,1176,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,306.32,2025-05-28,6,Nakuru
+60550706-43c9-43fe-b0b4-8b24d07e754f,1962,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,98.91,2024-12-01,6,Nakuru
+ba4071a8-ed15-4ce5-a3e7-c4a3c149659e,1727,104,Rice,PL104,Pishori Ltd,Pishori,9,466.94,2024-08-09,9,Machakos
+c380470b-3a37-4f6b-a673-0feab2468dda,1972,105,Salt,KS105,KenSalt,KenSalt,6,308.74,2024-07-30,2,Nairobi
+2217f297-b73b-4f3a-99ad-e0dfd52585a5,1581,105,Salt,KS105,KenSalt,KenSalt,1,60.08,2025-04-23,9,Machakos
+7995252b-6f88-495c-a214-625f85d077b4,1290,103,Sugar,SC103,SweetCo,Sweetie,8,225.26,2024-07-10,7,Kitale
+8b14ee77-71df-41be-94e4-337eb3bddc12,1259,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,168.98,2025-01-05,5,Eldoret
+dc43c595-73dd-46cc-920c-30b5f751f889,1582,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,339.99,2025-03-16,5,Eldoret
+c97b9765-2a30-4e7b-b837-2130b3132f91,1529,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,411.4,2025-03-08,8,Nyeri
+63096782-447c-43fb-b7f9-3dd20086b334,1780,103,Sugar,SC103,SweetCo,Sweetie,4,377.47,2025-05-09,3,Mombasa
+0230d50a-408a-4664-91cb-c917ff701484,1643,103,Sugar,SC103,SweetCo,Sweetie,5,341.26,2024-11-26,3,Mombasa
+65a47225-eaa1-49e2-b6f5-e763e3fa598f,1165,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,338.54,2024-09-20,7,Kitale
+985598e1-05c5-44f2-b416-8e32f5022ace,1973,105,Salt,KS105,KenSalt,KenSalt,1,385.81,2024-11-20,3,Mombasa
+2c9a4fb5-652a-4122-bc66-dd8e389ae12e,1341,105,Salt,KS105,KenSalt,KenSalt,1,111.82,2025-04-07,10,Embu
+302af3d0-2b5d-4531-8553-7e298b79266d,1167,103,Sugar,SC103,SweetCo,Sweetie,1,438.83,2024-12-26,7,Kitale
+75c944a2-ba07-4cb0-b1ae-febc089291a8,1066,105,Salt,KS105,KenSalt,KenSalt,1,191.24,2024-07-17,2,Nairobi
+3a7281c4-6cd7-4e49-91fc-e77faba7eff5,1286,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,498.52,2024-08-17,8,Nyeri
+57ffd3a0-33bb-4494-95ac-4454a3d1f520,1380,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,275.47,2024-07-27,10,Embu
+1d4e0e4e-c637-4452-9269-7694b54ead5f,1601,105,Salt,KS105,KenSalt,KenSalt,1,314.16,2024-12-31,5,Eldoret
+50d5a5ec-fad1-42d0-ad70-8e432f335c92,1164,105,Salt,KS105,KenSalt,KenSalt,2,339.72,2025-03-12,2,Nairobi
+ffb18986-8897-4be2-97a9-30c5d667612b,1923,102,Cooking Oil,GF102,Golden Fry,GoldFry,10,233.99,2024-10-25,1,Thika
+084e1672-cdfa-4b2e-944d-173159bf7cb9,1278,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,490.34,2025-02-25,6,Nakuru
+74d7e448-1e2b-49f8-8f2e-786a7d95746e,1461,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,138.75,2025-02-14,3,Mombasa
+8de4c43a-8ff8-4d2f-83e7-05b28e155af3,1727,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,358.31,2025-03-11,4,Kisumu
+0981ea36-1a02-459a-9834-93489184081c,1896,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,98.81,2025-05-22,3,Mombasa
+74eb4fa2-9f17-47ae-b0af-41bc78d9ef46,1212,103,Sugar,SC103,SweetCo,Sweetie,10,178.1,2024-12-13,5,Eldoret
+9783bbb4-b8f7-4311-b1be-50c5b98f9b6f,1153,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,443.07,2025-03-24,3,Mombasa
+d52f7f59-ecbd-4708-b838-80027aa9821a,1738,104,Rice,PL104,Pishori Ltd,Pishori,1,185.75,2025-05-08,4,Kisumu
+3b838f6b-c1bb-4491-80b5-35cd961d4f89,1038,103,Sugar,SC103,SweetCo,Sweetie,4,499.3,2024-10-27,9,Machakos
+8071f430-165f-4ee5-b210-f7be32f5d841,1264,103,Sugar,SC103,SweetCo,Sweetie,9,54.27,2024-07-08,8,Nyeri
+b192e685-7c52-411f-92e0-e12ac4762aa0,1836,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,289.25,2024-11-28,2,Nairobi
+57276762-7012-4545-bea9-df18cf4a1c7c,1070,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,350.29,2025-05-20,7,Kitale
+fb33f292-bc91-4103-b4cc-67e78e69e526,1079,104,Rice,PL104,Pishori Ltd,Pishori,8,454.87,2025-05-09,5,Eldoret
+6137f3cc-1966-4614-8fdf-c68ca4dfe16d,1226,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,258.62,2024-08-26,7,Kitale
+be64ada2-52da-4f6a-b806-9eabed804d0e,1015,104,Rice,PL104,Pishori Ltd,Pishori,6,349.74,2025-03-27,1,Thika
+3b83bed9-0d35-468f-992e-3f61db330835,1644,103,Sugar,SC103,SweetCo,Sweetie,9,156.25,2025-01-03,1,Thika
+963df683-7918-4985-a43b-fbc0a766eb19,1399,103,Sugar,SC103,SweetCo,Sweetie,3,179.57,2025-02-10,5,Eldoret
+0cd0dc8a-5b81-4fb2-becc-c0d5b294d711,1876,105,Salt,KS105,KenSalt,KenSalt,6,349.36,2025-04-27,7,Kitale
+6dadc7ee-d72d-4041-8a59-7fbab6bb67e3,1168,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,284.04,2025-03-04,4,Kisumu
+dd29bf53-40c4-4dff-bf60-2aeab9448f2d,1189,105,Salt,KS105,KenSalt,KenSalt,9,89.8,2025-04-18,4,Kisumu
+3ba02183-f9e5-4444-a10f-ae233b88e708,1809,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,317.72,2025-03-11,1,Thika
+0d06b78d-80fe-40a6-938d-9644267f4dab,1365,103,Sugar,SC103,SweetCo,Sweetie,10,200.35,2025-03-04,1,Thika
+bf645037-3c3e-4b25-b49a-9c2f90a5e966,1074,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,337.68,2024-10-29,1,Thika
+56ee0f68-219a-4049-af96-b62ec8637461,1212,102,Cooking Oil,GF102,Golden Fry,GoldFry,10,85.26,2024-11-20,6,Nakuru
+c5fbd56b-ac17-4814-8105-7fd1c963b43c,1543,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,56.18,2024-09-20,9,Machakos
+b55735de-3335-49ab-8cd6-29114b04e32e,1172,103,Sugar,SC103,SweetCo,Sweetie,3,180.04,2024-07-08,6,Nakuru
+3c4055be-75d9-48eb-8da3-87fb4dd5838c,1605,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,230.3,2025-02-12,9,Machakos
+cb50f333-5da2-4ebb-b81c-db4cb9d048e1,1161,105,Salt,KS105,KenSalt,KenSalt,7,362.78,2024-06-15,8,Nyeri
+8707d0c0-affb-4add-b3bc-bbecd7b33002,1647,105,Salt,KS105,KenSalt,KenSalt,3,341.45,2025-05-04,1,Thika
+ce3d209e-c243-4ab3-a7ae-71cd13e7da58,1878,103,Sugar,SC103,SweetCo,Sweetie,4,395.52,2025-05-24,5,Eldoret
+645b3c76-39aa-476f-9fa6-9b95f34e0cc9,1954,103,Sugar,SC103,SweetCo,Sweetie,5,112.34,2025-03-10,1,Thika
+004c4e69-f9a4-4dc3-b612-499be8efcfe7,1010,105,Salt,KS105,KenSalt,KenSalt,10,423.97,2025-01-24,3,Mombasa
+75b151c9-da1d-406f-a183-e3795e5836c1,1541,104,Rice,PL104,Pishori Ltd,Pishori,10,136.62,2024-10-24,7,Kitale
+96b6cb5a-e35b-4b3a-81cc-5d1650d87549,1136,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,472.37,2024-12-14,5,Eldoret
+a052ec3c-b64a-46ca-892b-73687d66b9b8,1580,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,312.76,2024-08-27,2,Nairobi
+44ae6dc4-0a25-4c89-8c3b-acdd51225b8a,1818,104,Rice,PL104,Pishori Ltd,Pishori,7,338.56,2024-11-06,8,Nyeri
+28aec0b7-6456-4432-b6a4-2f2234ccd152,1779,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,407.66,2025-05-07,10,Embu
+00dba99a-4d82-4227-9b7a-2b181725751a,1108,105,Salt,KS105,KenSalt,KenSalt,2,384.22,2025-05-14,4,Kisumu
+15887452-3ce9-4645-8eee-d4c1558f6ad7,1991,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,335.89,2024-07-26,8,Nyeri
+2ca5f045-90c3-4c71-b2d6-3b30a33d732c,1646,105,Salt,KS105,KenSalt,KenSalt,1,320.84,2024-10-10,7,Kitale
+63168720-7eb6-42d1-a609-3969725e8fbd,1926,105,Salt,KS105,KenSalt,KenSalt,6,225.66,2025-04-23,8,Nyeri
+3a992ea4-172b-4147-a8b3-57a65b72fd6b,1790,103,Sugar,SC103,SweetCo,Sweetie,4,309.55,2025-05-11,10,Embu
+bcacb7a3-e7b0-4685-a909-7f5293175eda,1160,104,Rice,PL104,Pishori Ltd,Pishori,8,202.54,2025-05-26,3,Mombasa
+59504bd9-0b84-46f5-8627-fb471fbe4d56,1468,105,Salt,KS105,KenSalt,KenSalt,2,409.74,2024-07-27,1,Thika
+f78ab79e-e607-4441-9cca-48a77a13736a,1949,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,89.24,2024-07-07,1,Thika
+aec6c9c3-96e5-4f02-b9a4-abd4510bf1b5,1300,105,Salt,KS105,KenSalt,KenSalt,3,331.65,2024-07-19,3,Mombasa
+e9d4eb86-cf7e-4f70-b0a7-6f724a9525f1,1931,103,Sugar,SC103,SweetCo,Sweetie,2,228.21,2024-07-03,10,Embu
+d1d7e727-9dbe-4a8f-889c-f6aa867a7b64,1916,103,Sugar,SC103,SweetCo,Sweetie,10,183.55,2024-06-18,3,Mombasa
+a5a26a6d-462e-4311-afda-5218b8644054,1494,105,Salt,KS105,KenSalt,KenSalt,4,267.54,2024-07-30,8,Nyeri
+fe83d3f7-7065-4794-bed8-6bb7d608bd03,1021,104,Rice,PL104,Pishori Ltd,Pishori,3,179.92,2025-01-23,4,Kisumu
+fae8002b-51a9-4a62-ac80-6bf0cceb6ce8,1580,103,Sugar,SC103,SweetCo,Sweetie,8,141.62,2024-08-05,3,Mombasa
+ac303411-343d-4653-8be3-84c1ed60c432,1149,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,198.83,2024-10-28,4,Kisumu
+2cb062ac-555e-421d-8bcf-b2edae3fdd11,1379,105,Salt,KS105,KenSalt,KenSalt,7,144.47,2024-11-26,8,Nyeri
+e04a2c72-981a-4553-a18c-b870bf92e969,1518,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,104.32,2024-06-23,2,Nairobi
+604f4f4b-4356-44bf-ab84-316274736b12,1167,105,Salt,KS105,KenSalt,KenSalt,10,387.31,2024-11-07,4,Kisumu
+29626a93-189f-4de9-aff7-804eff1db74d,1556,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,329.71,2024-06-12,5,Eldoret
+6e47f319-6f86-4717-83a9-2bf5ff2ed65f,1034,101,Maize Flour,UNGA101,Unga Ltd,Unga,10,425.9,2024-09-21,10,Embu
+56b19107-3ab2-4a2b-a36e-dc25d18e011b,1872,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,184.84,2025-04-12,3,Mombasa
+d0462939-ad51-431e-ae61-2e5253122c10,1035,103,Sugar,SC103,SweetCo,Sweetie,1,166.75,2024-11-04,5,Eldoret
+c9ebc334-0807-41cd-b47c-163d6b09c39b,1295,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,252.13,2024-07-23,8,Nyeri
+5e382c2a-9b6d-4d24-b9d0-f9c780bde35f,1217,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,300.76,2025-05-31,7,Kitale
+fbba1b3b-2ae5-48f6-b39d-feaa96704207,1064,103,Sugar,SC103,SweetCo,Sweetie,5,433.2,2024-12-12,3,Mombasa
+d9ceb64f-7672-46cd-a97e-01a44e8d9204,1119,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,401.22,2024-06-25,8,Nyeri
+7ba79912-bd3e-4602-a919-2c7ef9bba41a,1117,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,248.01,2024-07-21,8,Nyeri
+f8ba7e32-e568-4422-8b82-3e8954d97c86,1084,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,89.1,2025-03-30,9,Machakos
+b5667807-0b1d-43f9-a216-5facb0b1acdd,1991,104,Rice,PL104,Pishori Ltd,Pishori,2,316.58,2024-12-30,6,Nakuru
+b8428277-3e8a-4add-b204-1f2a1e21111d,1735,103,Sugar,SC103,SweetCo,Sweetie,4,423.79,2025-03-19,6,Nakuru
+aa512fb2-3b88-49a0-bdd0-23ee857c03df,1151,103,Sugar,SC103,SweetCo,Sweetie,2,175.29,2024-10-02,8,Nyeri
+cb4510c2-1d8b-429a-9fd2-44693b210a27,1147,105,Salt,KS105,KenSalt,KenSalt,5,417.24,2024-12-04,9,Machakos
+962c36d2-b83a-49f4-a7b7-a5c841f5daa9,1490,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,424.96,2024-09-09,7,Kitale
+e5f3cadd-8e45-4df4-8dbb-88c03eddeaad,1649,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,325.95,2025-05-17,2,Nairobi
+21e0d8e8-f10b-4a73-8c02-f337b7c26a88,1727,104,Rice,PL104,Pishori Ltd,Pishori,2,162.59,2025-02-09,5,Eldoret
+9dcff0f3-9166-417a-afd9-a612b998f106,1867,104,Rice,PL104,Pishori Ltd,Pishori,2,233.49,2024-09-17,10,Embu
+286fb266-834d-452d-bdd0-ac5a6a7f9254,1837,105,Salt,KS105,KenSalt,KenSalt,5,437.66,2024-12-24,3,Mombasa
+4d4af1f9-59a7-4e28-a9e9-e20b1588836f,1683,103,Sugar,SC103,SweetCo,Sweetie,8,107.15,2025-03-24,6,Nakuru
+3974fb3e-37be-4503-88ab-47eaa048f093,1024,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,294.4,2024-06-14,8,Nyeri
+0e6a2438-4bbf-420a-b185-0fc37298cbfe,1504,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,482.38,2025-03-18,6,Nakuru
+202858db-48f7-40e0-86dc-04c6ec2a08f2,1533,104,Rice,PL104,Pishori Ltd,Pishori,6,322.35,2024-09-30,10,Embu
+6a48f7c8-5aaf-44b0-b940-d1eac89e3658,1840,104,Rice,PL104,Pishori Ltd,Pishori,1,367.01,2025-03-08,3,Mombasa
+e14d4cd5-5f0e-44aa-bf38-91e3abb948b6,1934,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,487.44,2025-01-07,9,Machakos
+da7ffae4-7111-4ada-9227-61a8aeb80e1e,1871,103,Sugar,SC103,SweetCo,Sweetie,1,191.68,2024-06-29,1,Thika
+3da0137f-2bb8-413f-a4de-44691e6881a4,1548,103,Sugar,SC103,SweetCo,Sweetie,10,288.43,2025-03-19,1,Thika
+64919f68-5d61-40e1-953d-51364b02494c,1882,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,284.88,2025-02-13,10,Embu
+54ce109b-c4f5-4fa4-b63a-3321ada41b8f,1072,104,Rice,PL104,Pishori Ltd,Pishori,1,100.3,2024-09-02,9,Machakos
+bbe33a6b-6062-4644-bdab-a09788da4a6a,1597,104,Rice,PL104,Pishori Ltd,Pishori,4,497.6,2024-10-05,3,Mombasa
+f797bdfb-f45c-4818-bd82-9ec0038c7a7a,1849,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,78.45,2025-01-10,1,Thika
+0258918d-ac9a-42ad-ad1e-aae77662b13b,1875,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,399.65,2024-07-06,2,Nairobi
+2fcce8fe-12cd-4d64-8407-9e57836a5c9a,1453,104,Rice,PL104,Pishori Ltd,Pishori,4,243.68,2024-10-30,2,Nairobi
+90b9d7d8-9a92-411d-b0ae-8c80ef6a150c,1728,104,Rice,PL104,Pishori Ltd,Pishori,2,320.95,2024-10-22,7,Kitale
+6a15392f-b0c9-4aab-b65f-8cf75a6cc8b5,1167,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,169.0,2024-08-31,2,Nairobi
+0ed40cfd-93fe-41fd-a7bb-ba6399bca609,1257,101,Maize Flour,UNGA101,Unga Ltd,Unga,7,145.71,2025-01-29,4,Kisumu
+446ade71-ff1f-45bb-a399-3085e3ec6637,1303,105,Salt,KS105,KenSalt,KenSalt,2,154.89,2025-02-14,5,Eldoret
+cdeaa4fd-bd92-44c1-a3e7-eabc28326008,1963,102,Cooking Oil,GF102,Golden Fry,GoldFry,10,414.29,2025-03-03,8,Nyeri
+71692812-fa49-44a2-b9d0-75067126f34c,1573,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,447.87,2024-11-21,9,Machakos
+9f702fd4-200b-4675-891d-8be9f521457f,1115,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,300.78,2025-02-17,9,Machakos
+3a714657-9f7c-4664-9134-e3d6d4cac6c6,1406,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,330.82,2025-04-23,1,Thika
+469c5156-4ce1-4f28-8f99-250927d08072,1793,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,157.87,2025-02-08,1,Thika
+239559ed-5220-48a9-b445-a81ce3e6d02a,1777,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,276.08,2024-10-10,5,Eldoret
+cd03a2bc-debd-458b-946d-0514d3271eb7,1375,101,Maize Flour,UNGA101,Unga Ltd,Unga,3,454.28,2025-03-31,4,Kisumu
+80e7b087-38eb-443f-ba91-6437e18254d7,1561,104,Rice,PL104,Pishori Ltd,Pishori,1,197.47,2025-03-24,7,Kitale
+5528a859-d8a0-4aba-ac01-c3804a41200f,1254,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,418.45,2024-10-04,5,Eldoret
+d1c3f649-52af-4b7d-820d-5bf79ad29816,1446,104,Rice,PL104,Pishori Ltd,Pishori,8,69.99,2024-12-06,2,Nairobi
+007477e4-2929-42f5-8cee-b71bf919c6a7,1028,102,Cooking Oil,GF102,Golden Fry,GoldFry,8,192.78,2025-03-26,4,Kisumu
+7689f00d-1435-4db5-b23e-fd6d80b2406e,1184,101,Maize Flour,UNGA101,Unga Ltd,Unga,9,452.24,2025-06-07,1,Thika
+ebdd2fe9-9d30-4fda-b163-ea2bf700f28e,1982,104,Rice,PL104,Pishori Ltd,Pishori,2,366.87,2025-02-15,4,Kisumu
+02f69902-bfab-4814-8c1b-5698650e417b,1949,101,Maize Flour,UNGA101,Unga Ltd,Unga,4,273.15,2024-07-30,8,Nyeri
+183236e4-4e91-463c-9e9b-9b41bf026920,1049,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,282.42,2024-07-05,7,Kitale
+597d198a-657b-484a-b510-7e326aa4b655,1274,104,Rice,PL104,Pishori Ltd,Pishori,6,178.93,2024-09-05,8,Nyeri
+92a91220-4d12-4fca-8ea3-08c61eb9993b,1164,103,Sugar,SC103,SweetCo,Sweetie,5,257.02,2025-02-09,7,Kitale
+6e557b27-603c-4f10-bc8e-5769bd7e259a,1243,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,499.39,2024-06-27,4,Kisumu
+7b872ce9-62c1-4ad5-9e85-7d0e7f4967c7,1684,102,Cooking Oil,GF102,Golden Fry,GoldFry,1,218.2,2025-03-30,4,Kisumu
+aab9efb7-b7d6-4a83-a43f-1d91733fa713,1904,104,Rice,PL104,Pishori Ltd,Pishori,3,338.34,2025-05-19,1,Thika
+126436a8-c931-44d1-b71e-8ae9495e3f03,1454,102,Cooking Oil,GF102,Golden Fry,GoldFry,7,464.36,2024-11-19,1,Thika
+f4ceedee-e0e0-4a4d-ab68-0cb821e178c8,1216,101,Maize Flour,UNGA101,Unga Ltd,Unga,1,79.7,2024-11-01,9,Machakos
+7e542b35-3026-4f54-80e4-a58e560ca7ff,1627,103,Sugar,SC103,SweetCo,Sweetie,7,299.17,2024-07-28,6,Nakuru
+d06a36e0-30e7-427e-963b-359de0feecd6,1345,103,Sugar,SC103,SweetCo,Sweetie,1,106.59,2024-08-11,9,Machakos
+d69ed393-ef78-4d58-b0ed-50b4614041bd,1415,103,Sugar,SC103,SweetCo,Sweetie,6,81.68,2025-04-07,8,Nyeri
+749f7386-b090-48d3-b9e9-9359809de49d,1696,102,Cooking Oil,GF102,Golden Fry,GoldFry,5,211.59,2025-04-20,9,Machakos
+4e8f4c5c-ffe0-4445-bc68-53b6c24fa0ff,1674,105,Salt,KS105,KenSalt,KenSalt,7,384.54,2025-06-05,6,Nakuru
+5adb1dd5-b476-46cc-9d5d-e0043913a618,1908,105,Salt,KS105,KenSalt,KenSalt,4,496.75,2024-10-25,7,Kitale
+831cb72a-e5cc-4857-a748-0145c0c8e8a5,1812,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,100.27,2024-07-20,1,Thika
+29327fde-2890-417a-b14e-07067f13f054,1888,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,244.41,2025-04-29,7,Kitale
+22b5c4a8-0597-4806-b54e-6143bdcd0ed1,1994,104,Rice,PL104,Pishori Ltd,Pishori,7,154.88,2025-02-27,8,Nyeri
+96f7ca0c-5308-4a04-8b00-590dced0933a,1171,103,Sugar,SC103,SweetCo,Sweetie,1,295.95,2024-07-11,8,Nyeri
+c4ab5f6d-d5a7-450d-a7b8-93ebd7c2261d,1807,105,Salt,KS105,KenSalt,KenSalt,1,434.64,2025-03-23,6,Nakuru
+894b4e09-c1cf-4f11-937b-33dd140a7c83,1820,103,Sugar,SC103,SweetCo,Sweetie,4,228.27,2025-02-11,3,Mombasa
+debe9288-f69f-4d91-8bae-35f1cc22ebb8,1646,104,Rice,PL104,Pishori Ltd,Pishori,8,272.91,2025-02-08,2,Nairobi
+e7932f40-07bb-45cf-bf29-6edb70414f4b,1192,105,Salt,KS105,KenSalt,KenSalt,4,184.0,2025-04-22,6,Nakuru
+fdef49f2-8d2c-4a04-9adf-d440292c999e,1836,103,Sugar,SC103,SweetCo,Sweetie,6,133.94,2025-01-12,8,Nyeri
+a72cc01d-22fe-458c-ae37-f9e1dc93b61b,1753,105,Salt,KS105,KenSalt,KenSalt,10,140.41,2025-05-07,9,Machakos
+5b9f85fd-200a-4067-a65d-f7a2b08added,1489,102,Cooking Oil,GF102,Golden Fry,GoldFry,9,117.5,2024-12-19,1,Thika
+fc83af34-d591-42e6-959c-99e0809b89a8,1735,104,Rice,PL104,Pishori Ltd,Pishori,7,160.25,2024-09-03,3,Mombasa
+fe560f0a-1ec1-41ab-8880-e4bfe95375dc,1460,103,Sugar,SC103,SweetCo,Sweetie,3,381.49,2025-03-03,2,Nairobi
+11ebd3c4-abf4-4230-9562-c2a7f35e3317,1152,101,Maize Flour,UNGA101,Unga Ltd,Unga,8,278.38,2025-03-04,9,Machakos
+c3627d9d-a356-4e3c-823a-44a793aab3e6,1679,104,Rice,PL104,Pishori Ltd,Pishori,5,272.27,2024-11-28,9,Machakos
+64e7c188-4486-4c62-b300-562b0e0f0067,1519,102,Cooking Oil,GF102,Golden Fry,GoldFry,3,126.64,2025-02-01,1,Thika
+0f47bc72-d7f4-41d7-90f4-25cb9e46464f,1942,102,Cooking Oil,GF102,Golden Fry,GoldFry,4,377.77,2025-02-24,7,Kitale
+6843e23d-a925-406d-8c42-f2e269ac1f93,1939,105,Salt,KS105,KenSalt,KenSalt,9,398.84,2024-10-09,10,Embu
+2fdd10e1-eefe-4bee-bb5a-7bfe76dc4cb3,1813,103,Sugar,SC103,SweetCo,Sweetie,2,355.72,2025-03-05,6,Nakuru
+b0ebaaae-5cbb-4be0-ac3d-33dd7ed16af9,1594,103,Sugar,SC103,SweetCo,Sweetie,9,278.32,2024-07-25,7,Kitale
+c281c62a-53e0-4c11-bfa7-e3447bf24da6,1144,102,Cooking Oil,GF102,Golden Fry,GoldFry,6,371.21,2025-04-07,4,Kisumu
+5c8d7ca0-f38d-4d0b-97e4-3722b05c840b,1101,103,Sugar,SC103,SweetCo,Sweetie,6,251.51,2024-12-25,2,Nairobi
+e000d14e-a846-4875-9617-4c9d7c82334d,1868,105,Salt,KS105,KenSalt,KenSalt,6,62.86,2025-01-20,6,Nakuru
+fb32aef1-569a-4406-a9e1-4250a13f751e,1548,103,Sugar,SC103,SweetCo,Sweetie,2,180.2,2024-12-31,5,Eldoret
+d50bea9e-b1d6-4bac-9439-99f7d414c1b9,1640,104,Rice,PL104,Pishori Ltd,Pishori,1,59.77,2025-05-20,9,Machakos
+21be7610-b115-4fab-b187-e30f5a07b720,1738,102,Cooking Oil,GF102,Golden Fry,GoldFry,2,477.15,2024-06-11,10,Embu
+3d6716a8-5628-4527-bb67-2d76ff4b98d9,1352,104,Rice,PL104,Pishori Ltd,Pishori,10,240.18,2024-08-12,7,Kitale
+01af56a5-5f8b-4e59-80f7-e01c17412a7b,1294,105,Salt,KS105,KenSalt,KenSalt,4,334.52,2025-02-10,5,Eldoret
+a4f8c5e4-e439-4c34-af7f-56b82e51c0e5,1902,103,Sugar,SC103,SweetCo,Sweetie,7,64.0,2024-12-22,3,Mombasa
+139ff2ba-b845-4598-81bf-37821a56cb1c,1004,104,Rice,PL104,Pishori Ltd,Pishori,3,76.99,2024-06-18,9,Machakos
+a8b95a53-ac41-4c91-861a-b9d86d7d82bb,1661,101,Maize Flour,UNGA101,Unga Ltd,Unga,6,253.25,2025-04-13,8,Nyeri
+6a4e082b-c553-46ac-85a0-3df71827f767,1204,101,Maize Flour,UNGA101,Unga Ltd,Unga,5,144.34,2025-05-14,8,Nyeri
+e2f4a1a2-47cb-4181-8a7d-a850cb854916,1098,101,Maize Flour,UNGA101,Unga Ltd,Unga,2,489.02,2025-01-09,9,Machakos
+20cf7c01-c883-4115-b128-bf3d6dd515d9,1407,105,Salt,KS105,KenSalt,KenSalt,3,425.22,2024-09-23,6,Nakuru
+16532555-ac90-4eaa-af4c-077108bbc678,1696,104,Rice,PL104,Pishori Ltd,Pishori,8,424.16,2025-05-09,9,Machakos
