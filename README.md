@@ -115,4 +115,4 @@ Add machine learning for stock prediction and dynamic pricing
 👤 Author
 Mohit Verma
 Software Engineer | Data Engineer
-GitHub: @mohitverma-code
+GitHub: @MohitVermaDev
